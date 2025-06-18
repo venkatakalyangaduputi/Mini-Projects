@@ -28,8 +28,8 @@ git clone https://github.com/your-username/mini-projects.git
 cd mini-projects
 ```
 
-```bash
 (Optional) Create a virtual environment:
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
